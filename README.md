@@ -1,4 +1,4 @@
-# Some-Programming-Language-
+# Some-Programming-Language
 Programming Language Guide, Reference
 
 ## Swift
