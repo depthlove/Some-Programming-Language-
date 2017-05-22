@@ -1,4 +1,4 @@
-# Some-Programming-Language
+# Some Programming Languages
 Programming Language Guide, Reference
 
 ## Swift
@@ -6,6 +6,9 @@ Programming Language Guide, Reference
 
 ## Kotlin
 [Kotlin](https://kotlinlang.org/)
+
+## Java
+[Java 语言快速入门](http://wiki.jikexueyuan.com/project/java/)
 
 ## Python
 [Python](https://www.python.org/)
