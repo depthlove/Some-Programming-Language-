@@ -13,6 +13,8 @@ Programming Language Guide, Reference
 ## Python
 [Python](https://www.python.org/)
 
+[《零基础学 Python》(第二版)](http://wiki.jikexueyuan.com/project/start-learning-python/)
+
 ## R
 [R 常见问题解答 - 153 分钟学会 R](https://cran.r-project.org/doc/contrib/Liu-FAQ.pdf)
 
